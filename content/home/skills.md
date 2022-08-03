@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 
     icon: brain-circuit
-    icon_pack: fab
+    icon_pack: fas
     name: Artificial Intelligence
   - description: 
     icon: chart-line
