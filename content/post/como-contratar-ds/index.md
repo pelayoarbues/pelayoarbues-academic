@@ -40,7 +40,7 @@ categories:
   - Management
 ---
 
-A raíz de la anterior publicación sobre cómo conseguir un primer empleo de Data Scientist recibí bastantes preguntas de managers con dudas sobre cómo afrontar el proceso de contratación. En este artículo comparto unas notas rápidas que pueden servir para analizar si el proceso que lideras es todo lo racional que debería.
+A raíz de la [anterior publicación](https://pelayoarbues.netlify.app/post/buscas-tu-primer-empleo/) sobre cómo conseguir un primer empleo de Data Scientist recibí bastantes preguntas de managers con dudas sobre cómo afrontar el proceso de contratación. En este artículo comparto unas notas rápidas que pueden servir para analizar si el proceso que lideras es todo lo racional que debería.
 
 Antes de empezar un pequeño aviso: Desde que me incorporé al mundo del dato en el sector privado hace unos 7 años he participado de manera activa en la contratación de unos 15 perfiles de Data Scientist (DS), así que tampoco tengo un historial enorme de contrataciones.
 
