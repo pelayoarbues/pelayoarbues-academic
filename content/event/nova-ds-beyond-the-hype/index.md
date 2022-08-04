@@ -1,22 +1,22 @@
 ---
-title: Proyectos de Ciencia de Datos
+title: Data Science beyond the Hype
 
-event: Podcast Pensamiento Digital
-event_url: http://r-es.org/XIjuR/
+event: Nova event
+event_url: https://www.novatalent.com/
 
 location: Online - Session
 
-summary: Entrevista en el Podcast Pensamiento Digital de Frankie Carrero
-abstract: En este episodio contamos con Pelayo Arbués, Senior Data Scientist en Idealista/Data, para hablar sobre Data Science, tipos de proyectos que se llevan a cabo en la industria y la formación necesaria para poder dedicarse a ellos.
+summary: Webinar for Nova talent
+abstract: You probably have heard that data is the new oil and all the hype about Artificial Intelligence. In this talk I will present some of the projects I have worked on in the past few years with a major focused on those built for idealista. My goal is to share my view on how Data Science (DS) might transform a lot of industries but keeping it real and how it is actually used. In this regard we will also talk about the skills needed to complete Data Science projects.
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-07-12T19:00:00Z'
+date: '2021-05-25T19:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2020-07-12T19:00:00Z'
+publishDate: '2021-05-25T19:00:00Z'
 
 authors: []
 tags: []
@@ -29,14 +29,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: spotify
-    icon_pack: fab
-    name: Spotify
-    url: https://open.spotify.com/episode/4Fa5lmIhoeik5U5IWRp4Yx?si=7Zo2nX_GRF-t46ysWst9BA
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://bit.ly/3qFrQ6O'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

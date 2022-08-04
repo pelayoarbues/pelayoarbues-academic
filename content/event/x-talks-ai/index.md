@@ -1,22 +1,21 @@
 ---
-title: Proyectos de Ciencia de Datos
+title: xTalks.AI
 
-event: Podcast Pensamiento Digital
-event_url: http://r-es.org/XIjuR/
+event: xTalks.AI
+event_url: 
 
 location: Online - Session
 
-summary: Entrevista en el Podcast Pensamiento Digital de Frankie Carrero
-abstract: En este episodio contamos con Pelayo Arbués, Senior Data Scientist en Idealista/Data, para hablar sobre Data Science, tipos de proyectos que se llevan a cabo en la industria y la formación necesaria para poder dedicarse a ellos.
-
+summary: Interview at podcast xTalks.AI
+abstract: Podcast on current state of AI.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-07-12T19:00:00Z'
+date: '2021-12-02T19:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2020-07-12T19:00:00Z'
+publishDate: '2021-12-02T19:00:00Z'
 
 authors: []
 tags: []
@@ -29,14 +28,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: spotify
-    icon_pack: fab
-    name: Spotify
-    url: https://open.spotify.com/episode/4Fa5lmIhoeik5U5IWRp4Yx?si=7Zo2nX_GRF-t46ysWst9BA
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://xtalksai.buzzsprout.com/1806056/9660946-15-pelayo-arbues-data-science-inteligencia-artificial-proptech-innovacion'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

@@ -1,22 +1,22 @@
 ---
-title: Proyectos de Ciencia de Datos
+title: How to use location data to create amazing user experiences online
 
-event: Podcast Pensamiento Digital
-event_url: http://r-es.org/XIjuR/
+event: Programa Nuevos Profesionales Digitales
+event_url: https://my.demio.com/ref/czrpSDLnoX2Oni6h
 
 location: Online - Session
 
-summary: Entrevista en el Podcast Pensamiento Digital de Frankie Carrero
-abstract: En este episodio contamos con Pelayo Arbués, Senior Data Scientist en Idealista/Data, para hablar sobre Data Science, tipos de proyectos que se llevan a cabo en la industria y la formación necesaria para poder dedicarse a ellos.
+summary: Talk and Panel discussion in Geoawesome Meetup
+abstract: In this talk I present idealista.com/maps and idealista.com/energy as two data products that enhance user experience.
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-07-12T19:00:00Z'
+date: '2022-04-22T19:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2020-07-12T19:00:00Z'
+publishDate: '2022-04-22T19:00:00Z'
 
 authors: []
 tags: []
@@ -29,14 +29,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: spotify
-    icon_pack: fab
-    name: Spotify
-    url: https://open.spotify.com/episode/4Fa5lmIhoeik5U5IWRp4Yx?si=7Zo2nX_GRF-t46ysWst9BA
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=_yLrn2B5jKI'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

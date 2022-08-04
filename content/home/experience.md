@@ -31,6 +31,7 @@ experience:
     date_end: ''
     description: |2-
         Responsabilities include:
+
           - Manage people
           - Team growth
           - Data Analysis Evangelism
@@ -46,6 +47,7 @@ experience:
     date_end: '2020-11-01'
     description: |2-
         Responsabilities include:
+
           - Team management
           - Data Analysis
           - Machine Learning Modelling
@@ -60,6 +62,7 @@ experience:
     date_end: '2018-06-01'
     description: |2-
         Data Science Consultant. Main Projects:
+
           - Cluster Analysis of retail company customers
           - Recommender System based on Collaborative Filtering using Pytorch on GPUs
 
@@ -72,6 +75,7 @@ experience:
     date_end: '2016-10-01'
     description: |2-
         Responsabilities:
+
           - Mobile usage metrics building
           - Reporting
           - Customer Churn Analysis
@@ -85,6 +89,7 @@ experience:
     date_end: '2015-09-01'
     description: |2-
         Projects:
+        
           - Ph.D. thesis (2010-2013)
           - eKnow IT
           - Globalog

@@ -1,22 +1,21 @@
 ---
-title: Proyectos de Ciencia de Datos
+title: ML en modelos hedónicos de valoración inmobiliaria
 
-event: Podcast Pensamiento Digital
-event_url: http://r-es.org/XIjuR/
+event: Inteligencia Artificial Aplicada a Servicios Financieros
+event_url: 
 
-location: Online - Session
+location: Banco de España
 
-summary: Entrevista en el Podcast Pensamiento Digital de Frankie Carrero
-abstract: En este episodio contamos con Pelayo Arbués, Senior Data Scientist en Idealista/Data, para hablar sobre Data Science, tipos de proyectos que se llevan a cabo en la industria y la formación necesaria para poder dedicarse a ellos.
-
+summary: Presentación de paper sobre modelos hedónicos
+abstract: En esta charla presento un paper sobre modelos hedónicos aplicados a la valoración de inmuebles residenciales y discuto los retos actuales de tener este tipo de modelos en producción. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-07-12T19:00:00Z'
+date: '2022-06-07T09:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2020-07-12T19:00:00Z'
+publishDate: '2022-06-07T19:00:00Z'
 
 authors: []
 tags: []
@@ -29,10 +28,6 @@ image:
   focal_point: Right
 
 links:
-  - icon: spotify
-    icon_pack: fab
-    name: Spotify
-    url: https://open.spotify.com/episode/4Fa5lmIhoeik5U5IWRp4Yx?si=7Zo2nX_GRF-t46ysWst9BA
 url_code: ''
 url_pdf: ''
 url_slides: ''

@@ -1,22 +1,22 @@
 ---
-title: Proyectos de Ciencia de Datos
+title: Lecciones aprendidas haciendo Ciencia de datos
 
-event: Podcast Pensamiento Digital
-event_url: http://r-es.org/XIjuR/
+event: EPI Seminar
+event_url: https://epigijon.uniovi.es/comunicacion/noticias/-/asset_publisher/4bR1/content/idealista-2022
 
-location: Online - Session
+location: Escuela Politécnica Industrial Gijón
 
-summary: Entrevista en el Podcast Pensamiento Digital de Frankie Carrero
-abstract: En este episodio contamos con Pelayo Arbués, Senior Data Scientist en Idealista/Data, para hablar sobre Data Science, tipos de proyectos que se llevan a cabo en la industria y la formación necesaria para poder dedicarse a ellos.
+summary: Seminar on practical lessons learned while using Data Science
+abstract: In this talk, we will talk about types of projects that are done in private companies, with a special focus on how we use data in idealista. In addition, lessons learned in conducting projects from a realistic point of view will be shared. We will also talk about the hard and soft skills that allow better performance on the job.
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-07-12T19:00:00Z'
+date: '2022-01-26T19:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2020-07-12T19:00:00Z'
+publishDate: '2022-01-26T19:00:00Z'
 
 authors: []
 tags: []
@@ -29,10 +29,6 @@ image:
   focal_point: Right
 
 links:
-  - icon: spotify
-    icon_pack: fab
-    name: Spotify
-    url: https://open.spotify.com/episode/4Fa5lmIhoeik5U5IWRp4Yx?si=7Zo2nX_GRF-t46ysWst9BA
 url_code: ''
 url_pdf: ''
 url_slides: ''
