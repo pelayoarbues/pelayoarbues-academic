@@ -31,11 +31,11 @@ experience:
     date_end: ''
     description: |2-
         Responsabilities include:
-          * Manage people
-          * Team growth
-          * Data Analysis Evangelism
-          * Shape good data analisys practices
-          * Machine Learning consulting
+          - Manage people
+          - Team growth
+          - Data Analysis Evangelism
+          - Shape good data analisys practices
+          - Machine Learning consulting
 
   - title: Senior Data Scientist
     company: idealista
@@ -46,10 +46,10 @@ experience:
     date_end: '2020-11-01'
     description: |2-
         Responsabilities include:
-          * Team management
-          * Data Analysis
-          * Machine Learning Modelling
-          * MLOps
+          - Team management
+          - Data Analysis
+          - Machine Learning Modelling
+          - MLOps
 
   - title: Senior Data Scientist
     company: BBVA Next Technologies
@@ -60,8 +60,8 @@ experience:
     date_end: '2018-06-01'
     description: |2-
         Data Science Consultant. Main Projects:
-          * Cluster Analysis of retail company customers
-          * Recommender System based on Collaborative Filtering using Pytorch on GPUs
+          - Cluster Analysis of retail company customers
+          - Recommender System based on Collaborative Filtering using Pytorch on GPUs
 
   - title: Data Scientist
     company: Weplan Analytics
@@ -72,9 +72,9 @@ experience:
     date_end: '2016-10-01'
     description: |2-
         Responsabilities:
-          * Mobile usage metrics building
-          * Reporting
-          * Customer Churn Analysis
+          - Mobile usage metrics building
+          - Reporting
+          - Customer Churn Analysis
 
   - title: Researcher
     company: University of Oviedo. Department of Economics
@@ -85,9 +85,9 @@ experience:
     date_end: '2015-09-01'
     description: |2-
         Projects:
-          * Ph.D. thesis (2010-2013)
-          * eKnow IT
-          * Globalog
+          - Ph.D. thesis (2010-2013)
+          - eKnow IT
+          - Globalog
 
 design:
   columns: '2'
