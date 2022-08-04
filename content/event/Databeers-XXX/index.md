@@ -1,22 +1,22 @@
 ---
-title: Boosting Spanish Cadastre with Machine Learning
+title: Busco Piso
 
-event: Madrid AI & Deep Learning
-event_url: https://example.org
+event: Data Beers XXX
+event_url: https://databeers.tumblr.com/post/187436855446/databeers-madrid-xxx-2019-09-19-1900
 
-location: idealista Headquarters
+location: Google Campus Madrid
 
-summary: Catastro+ presentation
-abstract: In this talk I presented Catastro+. The main goal of the project is to add additional features to Spanish Cadastre by incorporating information included in Idealista ads.
+summary: My talk “Busco Pisco” for Databeers XXX.
+abstract: My talk “Busco Pisco” was selected as one of the top Databeers talks and got me an invitation to speak again at the special event for the 30th Databeers edition.
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2019-03-28T19:00:00Z'
+date: '2019-09-19T19:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2019-03-28T19:00:00Z'
+publishDate: '2019-09-19T19:00:00Z'
 
 authors: []
 tags: []
@@ -25,18 +25,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/pelayoarbues
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://youtu.be/wYb3tdiEr4I?t=3582'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
