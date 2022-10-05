@@ -1,5 +1,5 @@
 ---
-title: Está la casa de mis sueños sobrevalorada o es un chollo?
+title: Está la casa de mis sueños sobrevalorada o es un chollo
 
 event: Enel X Ninja Talk
 event_url: 
@@ -11,11 +11,11 @@ abstract: In this talk I present data initiatives at idealista such as those lea
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-10-05T09:00:00Z'
+date: '2022-10-06T09:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-10-05T19:00:00Z'
+publishDate: '2022-10-04T19:00:00Z'
 
 authors: []
 tags: []
