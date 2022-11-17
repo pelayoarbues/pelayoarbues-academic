@@ -1,19 +1,19 @@
 ---
-title: Cómo contratar Data Scientists y no desesperar en el intento
-subtitle: Notas para mejorar tus procesos de contratación de Científicos de Datos
+title: Agile for data Science
+subtitle: Managing Data Science projects is difficult. Is agile the solution?
 
 
 # Summary for listings and search engines
-summary: Notas para mejorar tus procesos de contratación de Científicos de Datos
+summary: Managing Data Science projects is difficult. Is agile the solution?
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2022-05-22T00:00:00Z'
+date: '2022-11-16T18:00:00Z'
 
 # Date updated
-lastmod: '2022-05-22T00:00:00Z'
+lastmod: '2022-11-16T18:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -40,64 +40,20 @@ categories:
   - Management
 ---
 
-A raíz de la [anterior publicación](https://pelayoarbues.netlify.app/post/buscas-tu-primer-empleo/) sobre cómo conseguir un primer empleo de Data Scientist recibí bastantes preguntas de managers con dudas sobre cómo afrontar el proceso de contratación. En este artículo comparto unas notas rápidas que pueden servir para analizar si el proceso que lideras es todo lo racional que debería.
+My experience working with agile methodologies in Data Science projects is quite bitter. It did not work for small companies. Neither did it for the larger ones starting their journey in advanced analytics. In both environments, Data Scientists usually work on more than one project at a time (They can even be considered [floor sweepers](https://publish.obsidian.md/dr-mario/pages/%F0%9F%97%A3%EF%B8%8F+Down+with+Data+Science), but that is another story). In that situation, if a project running in agile has no fully dedicated team the whole system crumbles, but that is not specific to Data Science. 
 
-Antes de empezar un pequeño aviso: Desde que me incorporé al mundo del dato en el sector privado hace unos 7 años he participado de manera activa en la contratación de unos 15 perfiles de Data Scientist (DS), así que tampoco tengo un historial enorme de contrataciones.
+In this writing, I follow this great post [[Data Science and Agile (What Works, and What Doesn't)]] to keep the discussion going. 
 
-## Fortalezas/debilidades del equipo y diversidad
+Data Science is not engineering, although lots can be learned from engineering good practices. There are a few characteristics of Data Science that makes it quite difficult to run under agile:
+- Not well-defined problems: Usually Product Owners, Product Managers (PMs) come with ill-defined problems. Similar objectives can be achieved with different data and very different techniques.  It might be something really specific like I need to query this data, but the ultimate objective of that query is something quite different, and it is not clear even in PMs' brains. It is usually not even clear what data to use as a similar concept can be approached from different data perspectives. Retrieving the data and running an adequacy assessment might be time-consuming and also an iterative process. In these preliminary steps, you have to reach a problem definition. 
+- The science: unknown paths to be taken, difficulty to estimate the time to be spent in the different steps from one project vs another. Only a few times does the data speak by itself and you do not need to really deep dive into the details. Usually, you need time to grasp the quality and fit of the data to solve the question. The question, goal, and paths taken usually evolve as the analysis is running, so you need to change the scope. Although you have a well-defined DS workflow and process, the amount of effort at each step may vary between projects. 
+- Research question: Related to the science it is the idea that Agile ceremonies push you to make a bet and put your efforts to solve a goal. Agile is supposed to be a methodology that allows you to pivot from one particular topic to other, so you should be able to move forward easily. The truth is that maybe the data indicates that the current goal is unfeasible and pushes you to a very different scenario. In my experience Agile lacks of general perspective and as Fabien Girardin says in [this tweet](https://twitter.com/fabiengirardin/status/1526806791157317632?s=20&t=XoK9T69e8lH0SIcNHdwo5g), it does not help you asking if you are asking the wrong question. 
+- Deliverables: Data Science is not engineering. For a PM it may be natural to think that if they can ask a software engineer for a new feature, she can do the same to a Data Scientist. Sometimes DS deliverables are difficult to be defined in advance during sprint planning. A successful DS deliverable might be an analysis or discovery that works as input for the next step in the DS workflow. It is quite likely that this output does not fit the definition of something usable for the end-user and that may be reported upwards. Sometimes a DS deliverable might be something as discouraging as data quality issues. 
+- It hurdles DS innovation. Data Science has a really large potential of transforming companies. DS can optimize the company's performance by tweaking processes. These sorts of tasks are important but lead to incremental improvements, not exponential changes. Innovation may happen when  DS follows data trails without a clear purpose. 
 
-Lo habitual es que los equipos de DS tengan menos personal del necesario para afrontar los proyectos. En esta circunstancia es tentador pescar rápidamente a la primera persona que aparezca y que sea suficientemente buena, esté disponible y con ganas.
+What I like about agile
+- Clear priorities with deliverables: A desirable skill of Data Scientists is curiosity. However, DS should know when to tame their curiosity and when they have to chase it even if it leads them to rabbit holes.  Sprint planning and execution create an environment that ensures the DS is focused on delivering specific outcomes. 
+- Short deadlines: A short deadline keeps your feet on the ground and pushes you to use the most simple techniques. Moreover, having a time budget helps you define feasible solutions. 
+- Deliverables focused on the ultimate objective. Reminds me of a problem-solving technique of the  [climber's technique](https://giorgionardone.com/en/strategic-logic-and-problem-solving/). This technique allows you to untangle a complex problem and set micro objectives that you can go solving. 
 
-Si lo haces así, posiblemente estés obviando que esa persona no es exactamente lo que necesitas. Como dice [Julie Zhuo](https://twitter.com/joulee), autora de [The Making of a Manager](https://fellow.app/blog/management/julie-zhuo-the-making-of-a-manager/), es como cuando tienes hambre para cenar: cualquier cosa te puede valer, pero seguramente si hubieses planificado tu cena comerías algo mejor.
-
-> Analiza necesidades presentes y futuras
-
-Para eso te tienes que tomar tu tiempo para identificar qué proyectos hay a la vista, qué líneas se abrirán en el futuro, en qué habilidades el equipo es fuerte/débil y qué personalidades y experiencias añaden diversidad a la hora de afrontar problemas.
-
-Si haces este ejercicio es posible que te des cuenta de que no necesitas un DS, que lo que en realidad necesitas es un Data Engineer (o dos). O que quizás ya tienes suficientes economistas varones blancos. O que necesitas una DS que sea más ingeniera ([Tipo B](https://medium.com/@jamesdensmore/there-are-two-types-of-data-scientists-and-two-types-of-problems-to-solve-a149a0148e64)) que analista (Tipo A).
-
-## Haz del proceso de selección algo memorable
-
-Intenta hacer el proceso de selección que te gustaría hacer a tí. Si cuentas con alguien de RRHH, forma una alianza con la recruiter en la que ella aportará su experiencia sobre selección y cómo tratar de una forma efectiva a cada persona y tú aportarás conocimiento técnico de las necesidades a cubrir.
-
-Escribe con cariño la descripción del puesto. Una vez identificado qué necesitas es hora de escribirlo para llamar la atención de candidatos. No hay que confundir este llamar la atención con venderles humo, sino que se identifiquen con el rol. Además una buena descripción del puesto por escrito le permitirá a tu recruitir tener suficiente información para que consiga hacer un filtrado más efectivo. [Me repito mucho](https://twitter.com/pelayoarbues/status/1273864002473517056?s=20&t=Ed2hTBGHS9I0IVefG0XExg) pero el rol de DS no está bien definido así que al menos trata que en tu descripción de la posición quede claro qué funciones esperas que cubran.
-
-**Pasa un cuestionario para que lo envíen junto al CV**. Pregunta por conocimiento en tecnologías, formas de trabajo y experiencia con ellas. Insiste en qué partes del pipeline de un proyecto de DS ha tenido experiencia: obteniendo información, limpiando, modelizando y MLOps.
-
-Además es importante saber cómo se ha relacionado con otros grupos de interés: traduciendo necesidades de negocio a características del análisis, integración con otros sistemas y relación con otros equipos de ingeniería. En la mayoría de las ocasiones los proyectos de DS fracasan por malos enganches entre equipos y funciones, así que tener experiencia en estas situaciones puede ser muy valioso para tu equipo.
-
-Entrevista. En la entrevista insiste una y otra vez en describir el puesto y pregunta mucho al candidato sobre cómo ve la posición y cómo encajaría según su formación y experiencia para ver si realmente entiende qué está buscando la empresa.
-
-Por ejemplo puedes contar que el equipo está haciendo la transición de trabajar de modo artesano (cada persona lleva un pipeline completo de un proyecto) a un modo factoría en el que cada perfil se especializa en aquellas funciones en las que estamos más preparados. Si el equipo está atravesando un proceso así o estás en uno u otro lado los candidatos tienen que saberlo.
-
-> Da contexto sobre cómo la empresa usa el dato
-
-En la entrevista es importante hablar de cómo es la organización de la empresa y qué papel creemos que nuestro equipo juega en ella y el recorrido que tiene por delante. Es importante describir si el equipo está [centralizado o descentralizado](https://mikkeldengsoe.substack.com/p/data-team-structure-embedded-or-centralised?), comentar el grado de madurez de la empresa a la hora de tomar decisiones basadas en datos, el papel que juegan los científicos de datos en los procesos de desarrollo de producto o si el CDO tiene capacidad de influir en las decisiones del Consejo de Dirección.
-
-> Esperamos que la candidata nos haga muchas preguntas.
-
-Eso para nosotros es muy buena señal. Parte del trabajo de DS es ayudar a otros equipos a hacerse las preguntas correctas, así que es un buen indicador de cómo se va a desenvolver en la resolución de problemas poco definidos.
-
-**Prueba técnica** Diseñamos una prueba para cada posición. Si entre tus funciones principales no va a estar la modelización no tiene sentido que te pidamos hacer un modelo en la prueba. En algunos puestos preferimos ver cómo tratas unos datos (cómo manejas outliers y missings), flujo de trabajo, si sacas conclusiones en base a la evidencia o la intuición, si sigues un proceso formal de inferencia, si usas buenas prácticas de desarrollo de software…
-
-Para la prueba técnica siempre he trabajado poniendo deadlines no estrictos, siendo flexibles en la fecha de entrega. Bastante es que los candidatos que están trabajando dediquen sus horas de tiempo libre a hacer una prueba como para ser muy rígido con los plazos.
-
-**Selección** Para afrontar la decisión de contratar, partimos de haber estructurado toda la información de los candidatos de la forma más eficiente posible y valorado cada uno de los aspectos que habíamos identificado como claves para el puesto. Para ellos es importante definir qué indicadores se van a valorar y tratar de guiar la puntuación de la manera más estándar posible.
-
-Sobre la selección propiamente dicha: Habitualmente suele haber una convergencia de opiniones en los rankings de candidatos, pero aquí siempre hay una cuestión que me ronda: Se tiene que ir a consenso o se tiene que apostar por la persona con la que alguien del equipo realmente desea trabajar?
-
-**Da feedback a los candidatos**. Notifica a todos los candidatos la decisión sobre su candidatura. Además a aquellos que han avanzado hasta las entrevistas técnicas envíales feedback sobre cómo han realizado el proceso. Lo lógico sería que si vuelves a abrir posiciones en los meses siguientes tires de aquellas personas que han quedado top en el ranking pero no has contratado. Siempre y cuando sigan encajando en las necesidades que has identificado en los primeros pasos del proceso. El mundo del dato es muy pequeño, no quemes puentes innecesariamente.
-
-Un último apunte sobre el proceso, involucra a otros miembros del equipo. Tanto en el perfilado explícito de lo que necesitamos como en el propio proceso de selección. Te servirá para ganar perspectiva, el equipo ganará en diversidad y a ell@s para ganar experiencia en algo que algún día será su responsabilidad.
-
-## Optimiza la búsqueda
-
-En el pasado siempre me ha funcionado bastante bien hacer una búsqueda segmentada a través del mailing que algunas organizaciones ponen a disposición de las empresas para anunciar sus posiciones: [Spain AI](https://www.spain-ai.com/), [Comunidad de R Hispano](http://r-es.org/quenes-somos/) o [Pyladies](http://madrid.pyladies.com/) son algunos ejemplos.
-
-> Segmenta la búsqueda y usa tu red de contactos
-
-Usa tu red de contactos. Tira mucho de amigos y excompañeros en cuyo criterio confias plenamente para obtener recomendaciones. Si buscamos un perfil muy junior puedes pedir recomendaciones a colegas profesores de escuelas de formación.
-
-Una última nota. Que la gente quiera venir a trabajar a tu empresa pasa porque tengas buenas condiciones laborales, proyectos atractivos, acceso razonable a datos y espacio para crecer laboralmente. Para señalizar que tu equipo/departamento cumple estas condiciones funciona muy bien difundir tu trabajo de forma honrada en eventos y escribiendo posts en el blog corporativo.
-
-El mercado de perfiles de datos está muy loco, así que espero que tanto si estás en un lado o en otro estas notas te sirvan.
+Managing Data Science projects is difficult because of the complicated nature of data challenges, the innate curiosity of Data Scientists, and the usual lack of a mature data culture in the company. Experiment and be flexible and try to accommodate the method to the project and the people involved. Don't fall in love with a methodology, tweak it to make it work for you. 
